@@ -1,7 +1,7 @@
 ---
-layout：   post
+layout：post
 title： Welcome！
-subtitle：Hello，welcome to my blog
+subtitle：Hello，welcome to my blog!
 date： 2019-05-01
 author： LXY
 catalog：true
