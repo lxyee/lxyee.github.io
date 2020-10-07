@@ -5,8 +5,6 @@ subtitle：Glad to see you!
 date： 2019-05-01
 author： LXY
 catalog：true
-tags:
-   -life 
 ---
 
 ## Hey！ 
